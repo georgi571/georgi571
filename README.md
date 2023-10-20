@@ -1,6 +1,6 @@
 ### Hi! I am Georgi Kostadinov! 👋
 
-Currently learing Programmin Fundamentals with Java! - September 2023
+Currently learning Programming Fundamentals with Java - September 2023
 
 Finished learning:
 Programming Basics with Java - May 2023 - https://softuni.bg/Certificates/Details/174972/9b2cb6eb
