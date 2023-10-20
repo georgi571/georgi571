@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! I am Georgi Kostadinov! 👋
+
+Currently learing Programmin Fundamentals with Java! - September 2023
+
+Finished learning:
+Programming Basics with Java - May 2023 - https://softuni.bg/Certificates/Details/174972/9b2cb6eb
+
 
 <!--
 **georgi571/georgi571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
