@@ -5,6 +5,7 @@ Currently learning Java Advanced - January 2024
 Completed:
 
 Programming Basics with Java - May 2023 - https://softuni.bg/Certificates/Details/174972/9b2cb6eb
+
 Programming Fundamentals with Java - September 2023 - https://softuni.bg/Certificates/Details/195113/0bdf1f65
 
 <!--
