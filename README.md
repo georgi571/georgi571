@@ -1,14 +1,49 @@
-### Hi! I am Georgi Vladimirov Kostadinov! 👋
+### <h1 align="center">Hi! I am Georgi Vladimirov Kostadinov! 👋 </h1>
 
-Currently learning Java OOP - February 2024
+<a href="https://prikachi.net/image/HTTq0"><img src="https://prikachi.net/images/2024/03/17/java-junior.png" alt="java-junior.png" border="0" /></a>
 
-Completed:
+### 🌱 I’m currently learning Java OOP - February 2024 in SoftUni
 
-Java Advanced - January 2024 - https://softuni.bg/Certificates/Details/203402/8fb9e569
+### <h3 align="left"> Find me around the web:</h3>
+  <p align="left">
+    <a href="https://linkedin.com/in/georgi-kostadinov-711578242" target="blank">
+      <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" 
+           alt="Georgi Kostadinov" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100080216182322" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+           alt="Georgi Kostadinov" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/georgivk93" target="blank">
+      <img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" 
+           alt="georgivk93" height="30" width="40" /></a>
+</p>
 
-Programming Fundamentals with Java - September 2023 - https://softuni.bg/Certificates/Details/195113/0bdf1f65
 
-Programming Basics with Java - May 2023 - https://softuni.bg/Certificates/Details/174972/9b2cb6eb
+### <h3 align="left">Tech stack:</h3>
+  <p align="left">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+             alt="java" width="40" height="40"/> </a> 
+      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" 
+             alt="intelliJ" width="40" height="40"/> </a> 
+      <a href="https://www.jetbrains.com/help/idea/maven-support.html" target="_blank" rel="noreferrer">
+          <img src="https://www.jrebel.com/sites/default/files/image/2020-07/image-blog-what-is-maven.jpg" 
+               alt="intelliJ" width="40" height="40"/> </a> 
+  </p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=georgi571&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgi571&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"  />
+
+<a href="https://info.flagcounter.com/Ejtj"><img src="https://s01.flagcounter.com/count2/Ejtj/bg_FFFFFF/txt_000000/border_000000/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+### Certificates && Repositories
+
+| Course        | GitHub repository | Grade | Issue date | Certificate |
+| ------------- | ----------------- | ----- | ---------- | ----------- |
+| Java OOP | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_4ProgrammingJavaOOPFebruary2024) [Repository2](https://github.com/georgi571/Software-University-Testing/tree/main/src)  | 0.00 | February 2024 |  |
+| Java Advanced | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_3ProgrammingJavaAdvancedJanuary2024) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/Certificates/Details/203402/8fb9e569) |
+| Java Fundamentals | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_2ProgrammingFundamentalsWithJavaSeptember2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/Certificates/Details/195113/0bdf1f65) |
+| Java Basics | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_1ProgrammingBasicsWithJavaMay2023) | 6.00 | May 2023 | [Java Basics certificate](https://softuni.bg/Certificates/Details/174972/9b2cb6eb) |
+
 
 <!--
 **georgi571/georgi571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
