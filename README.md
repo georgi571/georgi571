@@ -33,7 +33,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=georgi571&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi" height="150" alt="stats graph"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgi571&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=holi&hide_border=false" alt="languages graph"  />
 
-<a href="https://info.flagcounter.com/Ejtj"><img src="https://s01.flagcounter.com/count2/Ejtj/bg_FFFFFF/txt_000000/border_000000/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ### Certificates && Repositories
 
@@ -44,6 +43,7 @@
 | Java Fundamentals | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_2ProgrammingFundamentalsWithJavaSeptember2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/Certificates/Details/195113/0bdf1f65) |
 | Java Basics | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_1ProgrammingBasicsWithJavaMay2023) | 6.00 | May 2023 | [Java Basics certificate](https://softuni.bg/Certificates/Details/174972/9b2cb6eb) |
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgi571&label=Profile%20views&color=0e75b6&style=flat" alt="georgi571" /> </p>
 
 <!--
 **georgi571/georgi571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
