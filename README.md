@@ -38,10 +38,12 @@
 
 | Course        | GitHub repository | Grade | Issue date | Certificate |
 | ------------- | ----------------- | ----- | ---------- | ----------- |
+| HTML & CSS | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_5ProgrammingHTMLCSSMay2024))) | 0.00 |  |  |
 | Java OOP | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_4ProgrammingJavaOOPFebruary2024) [Repository2](https://github.com/georgi571/Software-University-Testing/tree/main/src)  | 0.00 | February 2024 |  |
 | Java Advanced | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_3ProgrammingJavaAdvancedJanuary2024) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/Certificates/Details/203402/8fb9e569) |
 | Java Fundamentals | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_2ProgrammingFundamentalsWithJavaSeptember2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/Certificates/Details/195113/0bdf1f65) |
 | Java Basics | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_1ProgrammingBasicsWithJavaMay2023) | 6.00 | May 2023 | [Java Basics certificate](https://softuni.bg/Certificates/Details/174972/9b2cb6eb) |
+| SoftUniada | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_0Softuniada)) | 0.00 |  |  |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgi571&label=Profile%20views&color=0e75b6&style=flat" alt="georgi571" /> </p>
 
