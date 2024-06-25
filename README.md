@@ -2,7 +2,7 @@
 
 <a href="https://prikachi.net/image/HTTq0"><img src="https://prikachi.net/images/2024/03/17/java-junior.png" alt="java-junior.png" border="0" /></a>
 
-### 🌱 I’m currently learning HTML & CSS - May 2024 in SoftUni
+### 🌱 I’m currently learning JS Front-End - June 2024 in SoftUni
 
 ### <h3 align="left"> Find me around the web:</h3>
   <p align="left">
