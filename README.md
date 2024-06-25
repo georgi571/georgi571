@@ -29,6 +29,12 @@
       <a href="https://www.jetbrains.com/help/idea/maven-support.html" target="_blank" rel="noreferrer">
           <img src="https://www.jrebel.com/sites/default/files/image/2020-07/image-blog-what-is-maven.jpg" 
                alt="intelliJ" width="40" height="40"/> </a> 
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+              alt="html5" width="40" height="40" /></a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+              alt="css3" width="40" height="40" /> </a>
   </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=georgi571&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi" height="150" alt="stats graph"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgi571&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=holi&hide_border=false" alt="languages graph"  />
@@ -38,6 +44,7 @@
 
 | Course        | GitHub repository | Grade | Issue date | Certificate |
 | ------------- | ----------------- | ----- | ---------- | ----------- |
+| JavaScript | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_6ProgrammingJSFrontEndJune2024) | 0.00 |  |  |
 | HTML & CSS | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_5ProgrammingHTMLCSSMay2024) | 0.00 |  |  |
 | Java OOP | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_4ProgrammingJavaOOPFebruary2024) [Repository2](https://github.com/georgi571/Software-University-Testing/tree/main/src)  | 6.00 | February 2024 | [Java OOP certificate](https://softuni.bg/Certificates/Details/211085/e652d50e)|
 | Java Advanced | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_3ProgrammingJavaAdvancedJanuary2024) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/Certificates/Details/203402/8fb9e569) |
