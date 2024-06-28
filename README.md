@@ -45,7 +45,7 @@
 | Course        | GitHub repository | Grade | Issue date | Certificate |
 | ------------- | ----------------- | ----- | ---------- | ----------- |
 | JavaScript | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_6ProgrammingJSFrontEndJune2024) | 0.00 |  |  |
-| HTML & CSS | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_5ProgrammingHTMLCSSMay2024) | 6.00 | May 2024  | [HTML & CSS certificate] (https://softuni.bg/Certificates/Details/218380/2e71d87d) |
+| HTML & CSS | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_5ProgrammingHTMLCSSMay2024) | 6.00 | May 2024  | [HTML & CSS certificate](https://softuni.bg/Certificates/Details/218380/2e71d87d) |
 | Java OOP | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_4ProgrammingJavaOOPFebruary2024) [Repository2](https://github.com/georgi571/Software-University-Testing/tree/main/src)  | 6.00 | February 2024 | [Java OOP certificate](https://softuni.bg/Certificates/Details/211085/e652d50e)|
 | Java Advanced | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_3ProgrammingJavaAdvancedJanuary2024) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/Certificates/Details/203402/8fb9e569) |
 | Java Fundamentals | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_2ProgrammingFundamentalsWithJavaSeptember2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/Certificates/Details/195113/0bdf1f65) |
