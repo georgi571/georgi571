@@ -20,21 +20,7 @@
 
 ### <h3 align="left">Tech stack:</h3>
   <p align="left">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-             alt="java" width="40" height="40"/> </a> 
-      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" 
-             alt="intelliJ" width="40" height="40"/> </a> 
-      <a href="https://www.jetbrains.com/help/idea/maven-support.html" target="_blank" rel="noreferrer">
-          <img src="https://www.jrebel.com/sites/default/files/image/2020-07/image-blog-what-is-maven.jpg" 
-               alt="intelliJ" width="40" height="40"/> </a> 
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-              alt="html5" width="40" height="40" /></a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-              alt="css3" width="40" height="40" /> </a>
+    <img src="https://skillicons.dev/icons?i=java,html,css,maven,github,idea" />
   </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=georgi571&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi" height="150" alt="stats graph"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgi571&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=holi&hide_border=false" alt="languages graph"  />
