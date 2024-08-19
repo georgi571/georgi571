@@ -2,7 +2,7 @@
 
 <a href="https://prikachi.net/image/HTTq0"><img src="https://prikachi.net/images/2024/03/17/java-junior.png" alt="java-junior.png" border="0" /></a>
 
-### 🌱 I’m currently learning JS Front-End - June 2024 in SoftUni
+### 🌱 I’m currently learning MySQL - September 2024 in SoftUni
 
 ### <h3 align="left"> Find me around the web:</h3>
   <p align="left">
@@ -20,7 +20,7 @@
 
 ### <h3 align="left">Tech stack:</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,html,css,maven,github,idea" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,maven,github,idea,postman,figma" />
   </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=georgi571&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi" height="150" alt="stats graph"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgi571&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=holi&hide_border=false" alt="languages graph"  />
@@ -30,8 +30,9 @@
 
 | Course        | GitHub repository | Grade | Issue date | Certificate |
 | ------------- | ----------------- | ----- | ---------- | ----------- |
-| JavaScript | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_6ProgrammingJSFrontEndJune2024) | 0.00 |  |  |
-| HTML & CSS | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_5ProgrammingHTMLCSSMay2024) | 6.00 | May 2024  | [HTML & CSS certificate](https://softuni.bg/Certificates/Details/218380/2e71d87d) |
+| MySQL | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_7MySQL) | 0.00 | | |
+| JS Front-End | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_6ProgrammingJSFrontEndJune2024) | 6.00 | June 2024 | [JS Front-End certificate](https://softuni.bg/Certificates/Details/223856/0c0e90bf)  |
+| HTML & CSS | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_5ProgrammingHTMLCSSMay2024) | 6.00 | May 2024 | [HTML & CSS certificate](https://softuni.bg/Certificates/Details/218380/2e71d87d) |
 | Java OOP | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_4ProgrammingJavaOOPFebruary2024) [Repository2](https://github.com/georgi571/Software-University-Testing/tree/main/src)  | 6.00 | February 2024 | [Java OOP certificate](https://softuni.bg/Certificates/Details/211085/e652d50e)|
 | Java Advanced | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_3ProgrammingJavaAdvancedJanuary2024) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/Certificates/Details/203402/8fb9e569) |
 | Java Fundamentals | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_2ProgrammingFundamentalsWithJavaSeptember2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/Certificates/Details/195113/0bdf1f65) |
