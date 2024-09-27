@@ -2,7 +2,7 @@
 
 <a href="https://prikachi.net/image/HTTq0"><img src="https://prikachi.net/images/2024/03/17/java-junior.png" alt="java-junior.png" border="0" /></a>
 
-### 🌱 I’m currently learning MySQL - September 2024 in SoftUni
+### 🌱 I’m currently learning MySQL - September 2024 and Programmin Basics with C++ - September 2024 in SoftUni
 
 ### <h3 align="left"> Find me around the web:</h3>
   <p align="left">
@@ -30,7 +30,7 @@
 
 | Course        | GitHub repository | Grade | Issue date | Certificate |
 | ------------- | ----------------- | ----- | ---------- | ----------- |
-| Spring Data | [Repository](https://github.com/georgi571/Software-University-Spring/tree/main/src/main/java/_1SpringData) | 0.00 | | |
+| Spring Data | [Repository](https://github.com/georgi571/Software-University-Hibernate/tree/main/src/main/java/_8SpringData) [Repository2] (https://github.com/georgi571/Software-University-Spring-Data/tree/main/src/main/java/_8SpringData) | 0.00 | | |
 | MySQL | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_7MySQL) | 0.00 | | |
 | JS Front-End | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_6ProgrammingJSFrontEndJune2024) | 6.00 | June 2024 | [JS Front-End certificate](https://softuni.bg/Certificates/Details/223856/0c0e90bf)  |
 | HTML & CSS | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_5ProgrammingHTMLCSSMay2024) | 6.00 | May 2024 | [HTML & CSS certificate](https://softuni.bg/Certificates/Details/218380/2e71d87d) |
