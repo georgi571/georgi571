@@ -3,7 +3,9 @@
 <a href="https://prikachi.net/image/HTTq0"><img src="https://prikachi.net/images/2024/03/17/java-junior.png" alt="java-junior.png" border="0" /></a>
 
 ### 🌱 I’m currently learning 
-### Spring Data - October 2024 and Programmin Basics with C++ - September 2024 
+### Spring Data - October 2024, 
+### Programming Fundamentals with C++ - November 2024, 
+### Programming Basics with JS - November 2024 
 ### in SoftUni
 
 ### <h3 align="left"> Find me around the web:</h3>
@@ -22,7 +24,7 @@
 
 ### <h3 align="left">Tech stack:</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,maven,mysql,github,idea,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,maven,mysql,github,idea,postman,figma" />
   </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=georgi571&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi" height="150" alt="stats graph"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgi571&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=holi&hide_border=false" alt="languages graph"  />
@@ -40,7 +42,8 @@
 | Java Advanced | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_3ProgrammingJavaAdvancedJanuary2024) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/Certificates/Details/203402/8fb9e569) |
 | Java Fundamentals | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_2ProgrammingFundamentalsWithJavaSeptember2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/Certificates/Details/195113/0bdf1f65) |
 | Java Basics | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_1ProgrammingBasicsWithJavaMay2023) | 6.00 | May 2023 | [Java Basics certificate](https://softuni.bg/Certificates/Details/174972/9b2cb6eb) |
-| C++ Basics | [Repository](https://github.com/georgi571/Software-University-CPP/tree/main/_1ProgrammingBasicsWithCPP) | 0.00 | | |
+| C++ Basics | [Repository](https://github.com/georgi571/Software-University-CPP/tree/main/_1ProgrammingBasicsWithCPP) | 6.00 | September 2024 | [C++ Basics certificate](https://softuni.bg/Certificates/Details/226976/995ff872) |
+| JS Basics | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_1ProgrammingBasicsWithJavaScriptNovember2024) | 0.00 | | |
 | SoftUniada | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_0Softuniada) | 0.00 |  |  |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgi571&label=Profile%20views&color=0e75b6&style=flat" alt="georgi571" /> </p>
