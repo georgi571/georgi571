@@ -35,7 +35,7 @@
 | Course        | GitHub repository | Grade | Issue date | Certificate |
 | ------------- | ----------------- | ----- | ---------- | ----------- |
 | Spring Fundamentals | [Repository](https://github.com/georgi571/Spring-Fundamentals) | 0.00 | | |
-| Spring Data | [Repository](https://github.com/georgi571/Software-University-Hibernate/tree/main/src/main/java/_8SpringData) [Repository2](https://github.com/georgi571/Software-University-Spring-Data/tree/main/src/main/java/_8SpringData) | 0.00 |October 2024 |[Spring Data certificate](https://softuni.bg/Certificates/Details/231147/15472e35) |
+| Spring Data | [Repository](https://github.com/georgi571/Software-University-Hibernate/tree/main/src/main/java/_8SpringData) [Repository2](https://github.com/georgi571/Software-University-Spring-Data/tree/main/src/main/java/_8SpringData) | 6.00 |October 2024 |[Spring Data certificate](https://softuni.bg/Certificates/Details/231147/15472e35) |
 | MySQL | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_7MySQL) | 6.00 | September 2024 |[MySQL certificate](https://softuni.bg/Certificates/Details/226099/3dc34b98) |
 | JS Front-End | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_6ProgrammingJSFrontEndJune2024) | 6.00 | June 2024 | [JS Front-End certificate](https://softuni.bg/Certificates/Details/223856/0c0e90bf)  |
 | HTML & CSS | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_5ProgrammingHTMLCSSMay2024) | 6.00 | May 2024 | [HTML & CSS certificate](https://softuni.bg/Certificates/Details/218380/2e71d87d) |
