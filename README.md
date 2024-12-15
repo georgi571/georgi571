@@ -4,7 +4,7 @@
 
 ### 🌱 I’m currently learning 
 ### Spring Fundamentals - January 2025, 
-### Programming Fundamentals with C++ - November 2024, 
+### C++ Advanced - January 2025, 
 ### Programming Basics with JS - November 2024 
 ### in SoftUni
 
@@ -42,7 +42,7 @@
 | Java OOP | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_4ProgrammingJavaOOPFebruary2024) [Repository2](https://github.com/georgi571/Software-University-Testing/tree/main/src)  | 6.00 | February 2024 | [Java OOP certificate](https://softuni.bg/Certificates/Details/211085/e652d50e)|
 | Java Advanced | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_3ProgrammingJavaAdvancedJanuary2024) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/Certificates/Details/203402/8fb9e569) |
 | Java Fundamentals | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_2ProgrammingFundamentalsWithJavaSeptember2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/Certificates/Details/195113/0bdf1f65) |
-| C++ Fundamentals | [Repository](https://github.com/georgi571/Software-University-CPP/tree/main/_2ProgrammingFundamentalsWithCPP) | 0.00 | | |
+| C++ Fundamentals | [Repository](https://github.com/georgi571/Software-University-CPP/tree/main/_2ProgrammingFundamentalsWithCPP) | 6.00 | November 2024 | [C++ Fundamentals certificate](https://softuni.bg/Certificates/Details/232165/dc15e496) |
 | Java Basics | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_1ProgrammingBasicsWithJavaMay2023) | 6.00 | May 2023 | [Java Basics certificate](https://softuni.bg/Certificates/Details/174972/9b2cb6eb) |
 | C++ Basics | [Repository](https://github.com/georgi571/Software-University-CPP/tree/main/_1ProgrammingBasicsWithCPP) | 6.00 | September 2024 | [C++ Basics certificate](https://softuni.bg/Certificates/Details/226976/995ff872) |
 | JS Basics | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_1ProgrammingBasicsWithJavaScriptNovember2024) | 0.00 | | |
