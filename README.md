@@ -5,7 +5,7 @@
 ### 🌱 I’m currently learning 
 ### Spring Fundamentals - January 2025, 
 ### C++ Advanced - January 2025, 
-### Programming Fundamentals with JS - November 2024 
+### Programming Fundamentals with JS - January 2025 
 ### in SoftUni
 
 ### <h3 align="left"> Find me around the web:</h3>
