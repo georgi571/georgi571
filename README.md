@@ -45,7 +45,7 @@
 | C++ Fundamentals | [Repository](https://github.com/georgi571/Software-University-CPP/tree/main/_2ProgrammingFundamentalsWithCPP) | 6.00 | November 2024 | [C++ Fundamentals certificate](https://softuni.bg/Certificates/Details/232165/dc15e496) |
 | Java Basics | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_1ProgrammingBasicsWithJavaMay2023) | 6.00 | May 2023 | [Java Basics certificate](https://softuni.bg/Certificates/Details/174972/9b2cb6eb) |
 | C++ Basics | [Repository](https://github.com/georgi571/Software-University-CPP/tree/main/_1ProgrammingBasicsWithCPP) | 6.00 | September 2024 | [C++ Basics certificate](https://softuni.bg/Certificates/Details/226976/995ff872) |
-| JS Basics | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_1ProgrammingBasicsWithJavaScriptNovember2024) | 0.00 | | |
+| JS Basics | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_1ProgrammingBasicsWithJavaScriptNovember2024) | 6.00 | November 2024 | [JavaScript Basics certificate](https://softuni.bg/Certificates/Details/233547/0fcce06b) |
 | SoftUniada | [Repository](https://github.com/georgi571/Software-University/tree/main/src/_0Softuniada) | 0.00 |  |  |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgi571&label=Profile%20views&color=0e75b6&style=flat" alt="georgi571" /> </p>
